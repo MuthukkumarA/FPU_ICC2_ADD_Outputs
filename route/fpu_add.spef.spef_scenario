@@ -1,0 +1,6 @@
+../outputs/route/fpu_add.spef.maxTLU_125.spef.gz for scenarios: 
+	 scenario: func_mode::ss0p6v125c, corner type: late/early
+
+../outputs/route/fpu_add.spef.minTLU_-40.spef.gz for scenarios: 
+	 scenario: turbo_mode::ss0p6vm40c, corner type: late/early
+
